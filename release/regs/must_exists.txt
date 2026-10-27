@@ -1,0 +1,2 @@
+Esta carpeta debe de existir
+(aunque esté vacia)

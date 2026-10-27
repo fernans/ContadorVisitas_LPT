@@ -1,0 +1,7 @@
+# Reference material from third parties (excluded from the repository)
+docs/
+investigacion/
+
+# System files
+Thumbs.db
+desktop.ini

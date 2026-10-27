@@ -1,0 +1,8 @@
+#negación de puertas: n0a,n0b,n0c, n1a,n1b,n1c, n2a,n2b,n2c;
+0,0,0,0,0,0,0,0,0;
+
+# direccion y puedeRestar: dirA,restarA,  dirB,restarB,  dirC,restarC;
+1,1,0,1,-1,0;
+
+# tiempo limite paso y tiempos reloj:   tlimite, relojIN, relojOUT;
+0.1,200,200;
